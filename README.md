@@ -35,6 +35,11 @@ The two most important parts of the projects:
 * you can also use the usual mvc interface to login with facebook and google by going to login page.
 <br><br>
 
+### tips:
+if you build new application, you should download following nuget packages:
+*  Microsoft.AspNetCore.Authentication.Google
+*  Microsoft.AspNetCore.Authentication.Facebook
+
 ### References:
 * [https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/?view=aspnetcore-3.1&tabs=visual-studio](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/?view=aspnetcore-3.1&tabs=visual-studio)
 * [https://www.blinkingcaret.com/2018/10/10/sign-in-with-an-external-login-provider-in-an-angular-application-served-by-asp-net-core/](https://www.blinkingcaret.com/2018/10/10/sign-in-with-an-external-login-provider-in-an-angular-application-served-by-asp-net-core/)
